@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Telenor test (Pure JS)</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>Telenor test</h1>
+
+      <div class="controls">
+        <button id="format-btn" disabled>Format text</button>
+        <span id="selection-indicator" class="muted"></span>
+      </div>
+
+      <p id="error" class="error" hidden></p>
+
+      <section id="content" hidden>
+        <h2 id="article-title"></h2>
+        <p id="article-text" class="article"></p>
+      </section>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

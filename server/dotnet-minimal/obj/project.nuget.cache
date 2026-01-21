@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BRbxpLqzcA4=",
+  "success": true,
+  "projectFilePath": "/Users/vikkjart/prjs/telenor-test/server/dotnet-minimal/dotnet-minimal.csproj",
+  "expectedPackageFiles": [
+    "/Users/vikkjart/.nuget/packages/microsoft.aspnetcore.openapi/10.0.1/microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "/Users/vikkjart/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
