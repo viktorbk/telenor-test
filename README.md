@@ -24,7 +24,7 @@ This repo contains two frontends (`client/vuejs` and `client/purejs`) and an ASP
 **Getting started (from git clone to running)**
 1) **Clone and enter the repo**
 ```bash
-git clone <YOUR_REPO_URL>
+git clone https://github.com/viktorbk/telenor-test
 cd telenor-test
 ```
 
